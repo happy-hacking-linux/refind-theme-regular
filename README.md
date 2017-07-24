@@ -11,7 +11,7 @@ A simplistic clean and minimal theme for rEFInd
 
 1. Clone git repository to your $HOME directory.
    ```
-   git clone https://github.com/munlik/refind-theme-regular.git
+   git clone https://github.com/happy-hacking-linux/refind-theme-regular.git
    ```
 
 2. Locate refind directory under EFI partition. For most Linux based system is commonly `/boot/efi/EFI/refind/`. Copy theme directory to it.
