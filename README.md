@@ -1,10 +1,6 @@
-# rEFInd theme Regular
+# rEFInd theme Happy Hacking Regular
 
-A simplistic clean and minimal theme for rEFInd
-
-
-![Screenshot 01](http://i.imgur.com/wQQ5OiQ.png)
-**press F10 to take screenshot
+A simplistic clean and minimal theme for rEFInd. Fork of [refind-theme-regular](https://github.com/munlik/refind-theme-regular)
 
 
 ### Installation:
