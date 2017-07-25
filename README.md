@@ -1,6 +1,6 @@
-# rEFInd theme Happy Hacking Regular
+# rEFInd theme Regular
 
-A simplistic clean and minimal theme for rEFInd. Fork of [refind-theme-regular](https://github.com/munlik/refind-theme-regular)
+A simplistic clean and minimal theme for rEFInd. Fork of [refind-theme-regular](https://github.com/munlik/refind-theme-regular), customized for Happy Hacking Linux.  
 
 
 ### Installation:
